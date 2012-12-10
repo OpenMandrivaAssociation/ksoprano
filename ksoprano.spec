@@ -32,3 +32,15 @@ rm -rf %{buildroot}
 
 %clean
 rm -rf %{buildroot}
+
+
+%changelog
+* Mon Dec 06 2010 Oden Eriksson <oeriksson@mandriva.com> 0.2-2mdv2011.0
++ Revision: 612672
+- the mass rebuild of 2010.1 packages
+
+* Thu Feb 18 2010 Nicolas Lécureuil <nlecureuil@mandriva.com> 0.2-1mdv2010.1
++ Revision: 507777
+- import ksoprano
+
+
