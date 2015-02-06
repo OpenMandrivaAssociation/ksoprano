@@ -1,7 +1,7 @@
 Summary:	GUI for querying and manipulating RDF data
 Name:		ksoprano
 Version:	0.2
-Release:	3
+Release:	4
 License:	GPLv2+
 Group:		Graphical desktop/KDE
 Url:		http://kde-apps.org/content/show.php?content=116756
