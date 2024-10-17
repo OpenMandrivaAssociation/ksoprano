@@ -4,7 +4,7 @@ Version:	0.2
 Release:	4
 License:	GPLv2+
 Group:		Graphical desktop/KDE
-Url:		http://kde-apps.org/content/show.php?content=116756
+Url:		https://kde-apps.org/content/show.php?content=116756
 Source0:	116756-%{name}.tgz
 BuildRequires:	kdelibs4-devel
 BuildRequires:	pkgconfig(shared-desktop-ontologies)
